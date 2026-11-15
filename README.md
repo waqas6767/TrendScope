@@ -2,6 +2,8 @@
 
 **From composition to cross-ion transfer.** A machine-learning model that predicts the average voltage of
 battery insertion electrodes for **Li, Na, K, Mg, Ca and Zn** from the chemical formula alone. It is trained on
+
+**🚀 Live app:** https://trendscope.streamlit.app *(deployed after the Space Apps submission; code unchanged)*
 2,634 DFT calculations from the Materials Project, and comes with an interactive web app.
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
