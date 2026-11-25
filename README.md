@@ -2,7 +2,7 @@
 
 **NASA Space Apps Challenge 2026 · Challenge: Be An Earth System Trend Detective! · Team: TrendScope | Challengers**
 
-**🚀 Live app:** https://trendscope.streamlit.app *(deployed after the Space Apps submission; app code unchanged)*
+**🚀 Live app:** https://PASTE-YOUR-REAL-URL-HERE *(deployed after the Space Apps submission; app code unchanged)*
 
 TrendScope answers four questions about NASA Earth data: **what** is changing, **where**, **by how much**, and **is it statistically significant?**
 
